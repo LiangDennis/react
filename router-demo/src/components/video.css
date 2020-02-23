@@ -1,0 +1,9 @@
+.topNav {
+  display: flex;
+  flex-direction: row;
+  background: #ace;
+}
+.topNav li {
+  list-style: none;
+  padding: 0 10px;
+}
